@@ -1,0 +1,6 @@
+[submodule "HW1-PatternMining"]
+	path = HW1-PatternMining
+	url = https://github.com/25349023/FP-Growth.git
+[submodule "HW3-GlobalOptimization"]
+	path = HW3-GlobalOptimization
+	url = https://github.com/25349023/GlobalOptimization.git
